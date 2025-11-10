@@ -10,6 +10,7 @@ public class test1 {
 	//working...
 		
 		//a7a111
+		for(int i = 0; i> 1; i++){}
 	}
 
 }
