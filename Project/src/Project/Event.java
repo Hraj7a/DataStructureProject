@@ -28,5 +28,6 @@ public class Event {
 		this.attendees.insert(a.getId(), a);
 	}
 	public boolean search(int k) {};
+	/
 
 }
