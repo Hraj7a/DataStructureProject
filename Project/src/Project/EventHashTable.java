@@ -26,20 +26,7 @@ public class EventHashTable {
 		}
 			return "Event: "+eventName+" was not found!";
 		}
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+//-----------------------------------------
 public static void main(String args[]) {
 	EventHashTable table = new EventHashTable();
 	int i = table.EventHashTable.hashFunc(2);
