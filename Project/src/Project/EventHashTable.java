@@ -32,5 +32,5 @@ public static void main(String args[]) {
 	int i = table.EventHashTable.hashFunc(2);
 	System.out.println(i);
 }
-
+//new
 }
